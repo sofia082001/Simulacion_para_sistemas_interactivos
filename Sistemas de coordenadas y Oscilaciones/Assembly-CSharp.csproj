@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5BCE4D5A-4753-653F-7D04-5704A61C4B76}</ProjectGuid>
+    <ProjectGuid>{B965BFD9-DBCC-C806-7E40-D662AF9B141C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,18 +57,18 @@
     <Compile Include="Assets\Scripts\myVector.cs" />
     <Compile Include="Assets\Scripts\Trigonometria\MoverLinear.cs" />
     <Compile Include="Assets\Scripts\Trigonometria\polar.cs" />
+    <Compile Include="Assets\Scripts\Sistema de Coordenadas\MatrixDrawer.cs" />
     <Compile Include="Assets\Scripts\Gargantua\Mover.cs" />
     <Compile Include="Assets\Scripts\Gravedad y Viento\MoverWithForce1.cs" />
+    <Compile Include="Assets\Scripts\Oscilations\Oscilations.cs" />
     <Compile Include="Assets\Scripts\Trigonometria\lookat.cs" />
     <Compile Include="Assets\Scripts\Atraccion Gravitacional\atraciongravitacional.cs" />
+    <Compile Include="Assets\Scripts\Oscilations\FunctionGraph.cs" />
     <Compile Include="Assets\Scripts\Friccion y fluidos\MoverPhysics.cs" />
     <Compile Include="Assets\Scripts\Trigonometria\PloarMover.cs" />
     <Compile Include="Assets\Scripts\testmyvector.cs" />
     <Compile Include="Assets\Scripts\Trigonometria\objectToMousePosition.cs" />
     <Compile Include="Assets\Scripts\Trigonometria\lookatAcceleration.cs" />
-    <Compile Include="Assets\Scripts\Sistema de Coordenadas\MatrixDrawer.cs" />
-    <Compile Include="Assets\Scripts\Oscilations\Oscilations.cs" />
-    <Compile Include="Assets\Scripts\Oscilations\FunctionGraph.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
